@@ -1,0 +1,2 @@
+class OrganizerException(Exception):
+    pass
